@@ -2,7 +2,7 @@
 
 A free, browser-local **eForms award-reference viewer**. Follow `LotResult → LotTender → TenderingParty → Organization` before flattening procurement XML into a dataset.
 
-[Open the working viewer](https://lottrace.hirohtht.chatgpt.site/)
+[Open the working viewer](https://taroyamada3173-sys.github.io/kanata-works/lottrace/)
 
 The synthetic example has three lots, a two-member consortium, and an intentionally missing organization. It is illustrative data, not a real or fully schema-valid notice. Choose a public XML file or paste XML to inspect your own notice. The app does not upload or persist the XML. It exports JSON with the reference IDs and warnings.
 
